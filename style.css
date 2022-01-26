@@ -1,0 +1,17 @@
+.jumbotron {
+  padding: 12rem 2rem;
+  background-color: #ffc2ff;
+}
+
+.img-thumbnail {
+  border-radius: 200px;
+  background-color: #FFF3B8;
+}
+
+section {
+  padding-top: 11rem;
+}
+
+footer {
+  background-color: #FFF3B8;
+}
